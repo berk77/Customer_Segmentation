@@ -1,4 +1,4 @@
-# Customer_Segmentation
+# Customer Segmentation
 
 The goal of this project is to segment customers based on their demographics using methods such as K-means clustering and principal component analysis. Each segment will then be analyzed separately to reveal the buying patterns of each customer segment, how much they are benefiting from the campaigns, and where the buying process is taking place in general.
 
